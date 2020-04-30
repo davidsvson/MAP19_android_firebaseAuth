@@ -1,0 +1,2 @@
+rootProject.name='FirestoreAuth'
+include ':app'
